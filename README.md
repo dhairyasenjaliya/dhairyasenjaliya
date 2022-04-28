@@ -27,7 +27,7 @@ Stacks I have worked with: React native , React.js + Firebase.
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![React Native + React.JS](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux) 
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase) 
 ![MaterialUI](https://img.shields.io/badge/Material_UI-000000?style=flat&logo=materialui) 
