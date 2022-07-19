@@ -1,6 +1,6 @@
 <div >
 
-## <img width="200" height="200" alt="GIF" src="https://media2.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" /> Hi there👋, I'm [Dhairya]
+<!-- ## <img width="200" height="200" alt="GIF" src="https://media2.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" /> Hi there👋, I'm [Dhairya] -->
  </div> 
 
 #### About me  
