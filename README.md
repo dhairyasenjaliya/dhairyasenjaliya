@@ -1,8 +1,8 @@
+<!-- ## 
 <div >
-
-<!-- ## <img width="200" height="200" alt="GIF" src="https://media2.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" /> Hi there👋, I'm [Dhairya] -->
- </div> 
-
+<img width="200" height="200" alt="GIF" src="https://media2.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" /> Hi there👋, I'm [Dhairya]
+</div> 
+ -->
 #### About me  
 I am a 💎Lead 💎Сross-platform (Mobile📱 And Web🌎) Developer with sound knowledge of JavaScript. You will find me working on the front-end all the time to achieve that perfect looking design. </br>  </br>
 Stacks I have worked with: React native , React.js + Firebase.
