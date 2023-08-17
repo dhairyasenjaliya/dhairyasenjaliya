@@ -26,3 +26,12 @@
 
 <p align="left">I am a 💎Lead 💎Сross-platform (Mobile📱 And Web🌎) Developer with sound knowledge of JavaScript. You will find me working on the front-end all the time to achieve that perfect looking design.<br><br>Stacks I have worked with: React native , React.js + Firebase , TypeScript.<br><br>- 📮 Have work for me? contact me here: dhairyasenjaliya@gmail.com
   
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dhairyasenjaliya&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
