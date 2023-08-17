@@ -24,12 +24,6 @@
 
 ###
 
-<p align="left">I am a 💎Lead 💎Сross-platform (Mobile📱 And Web🌎) Developer with sound knowledge of JavaScript. You will find me working on the front-end all the time to achieve that perfect looking design.<br><br>Stacks I have worked with: React native , React.js + Firebase , TypeScript.<br><br>📮 Have work for me? contact me here: dhairyasenjaliya@gmail.com</p>
+<p align="left">I am a 💎Lead 💎Сross-platform (Mobile📱 And Web🌎) Developer with sound knowledge of JavaScript. You will find me working on the front-end all the time to achieve that perfect looking design.<br><br>Stacks I have worked with: React native , React.js + Firebase , TypeScript.<br><br>📮 Have work for me? contact me here: [email]: mailto:dhairyasenjaliya@gmail.com</p>
 
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
+ 
