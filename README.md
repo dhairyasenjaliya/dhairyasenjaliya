@@ -24,6 +24,14 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
+###
+
 <p align="left">I am a 💎Lead 💎Сross-platform (Mobile📱 And Web🌎) Developer with sound knowledge of JavaScript. You will find me working on the front-end all the time to achieve that perfect looking design.<br><br>Stacks I have worked with: React native , React.js + Firebase , TypeScript.<br><br>- 📮 Have work for me? contact me here: dhairyasenjaliya@gmail.com
   
 <h3 align="left">🔥   My Stats :</h3>
