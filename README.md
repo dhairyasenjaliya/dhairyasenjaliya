@@ -25,3 +25,6 @@ I'm a seasoned Mobile & Web with a passion for crafting engaging and efficient a
 
 - **LinkedIn:** [Dhairya Senjaliya](https://www.linkedin.com/in/dhairya-senjaliya-a74012119/)
 
+## Profile View
+
+![](https://komarev.com/ghpvc/?username=dhairyasenjaliya&color=green)
