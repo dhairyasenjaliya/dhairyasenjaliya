@@ -82,17 +82,6 @@ I treat your product like **my own business**, not a ticket.
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dhairyasenjaliya&show_icons=true&theme=tokyonight" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyasenjaliya&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
 ## 🤝 Let’s Work Together
 
 <p>
