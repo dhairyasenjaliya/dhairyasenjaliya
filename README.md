@@ -175,9 +175,6 @@ Code reviews, mentoring, and architecture decisions across distributed teams.
 |---|---|---|
 | 🏆 **[Expensify/App](https://github.com/Expensify/App)** | Open-source contributor to the New Expensify chat-based financial collaboration platform. *Recognized with a Guest Engineer invitation to Curaçao.* | React Native · TypeScript |
 | 🎨 **[Portfolio](https://dhairya-senjaliya-portfolio.vercel.app/)** | My personal portfolio showcasing 20+ shipped apps and client work | Next.js · Vercel |
-| 📱 **[Featured RN App]** | _Pin one of your best React Native apps here — replace the older PHP repos_ | RN · Expo · TypeScript |
-| 🤖 **[AI / LLM Project]** | _Pin an OpenAI / RAG / agent project showcasing your AI work_ | RN · FastAPI · OpenAI |
-
 <br/>
 
 ## 🤝 Available For
