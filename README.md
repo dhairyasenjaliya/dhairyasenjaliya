@@ -5,12 +5,6 @@
 
 <div align="center">
 
-<a href="https://dhairya-senjaliya-portfolio.vercel.app/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Dhairya%20Senjaliya&fontSize=55&fontAlignY=38&fontColor=ffffff&desc=Senior%20Full%20Stack%20%26%20React%20Native%20Engineer&descSize=18&descAlignY=58&descAlign=50&animation=fadeIn" alt="header" />
-</a>
-
-<br/>
-
 <a href="https://github.com/dhairyasenjaliya">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=700&color=3B82F6&center=true&vCenter=true&multiline=false&width=720&height=42&lines=Building+production+React+Native+apps+%F0%9F%93%B1;7%2B+years+%E2%80%94+20%2B+apps+%E2%80%94+millions+of+users;Expensify+Guest+Engineer+%E2%80%94+Cura%C3%A7ao+%F0%9F%8C%B4;Shipping+AI%2FLLM-powered+mobile+experiences" alt="typing" />
 </a>
@@ -25,7 +19,6 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=dhairyasenjaliya&style=flat-square&color=3B82F6&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/dhairyasenjaliya?style=flat-square&color=3B82F6&label=Followers" />
 
 </div>
 
