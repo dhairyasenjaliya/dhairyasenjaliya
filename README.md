@@ -1,103 +1,221 @@
+<!--
+  GitHub Profile README — Dhairya Senjaliya
+  Drop this file into github.com/dhairyasenjaliya/dhairyasenjaliya as README.md
+-->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3000&pause=600&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Dhairya+Senjaliya+%F0%9F%91%8B;Senior+React+Native+%26+Expo+Freelancer;7%2B+Years+%7C+20%2B+Apps+Shipped;Trusted+by+Global+Clients;Python+%26+AI%2FML+Learner" />
+<a href="https://dhairya-senjaliya-portfolio.vercel.app/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Dhairya%20Senjaliya&fontSize=55&fontAlignY=38&fontColor=ffffff&desc=Senior%20Full%20Stack%20%26%20React%20Native%20Engineer&descSize=18&descAlignY=58&descAlign=50&animation=fadeIn" alt="header" />
+</a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=dhairyasenjaliya&style=flat-square&color=blue" />
+<a href="https://github.com/dhairyasenjaliya">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=700&color=3B82F6&center=true&vCenter=true&multiline=false&width=720&height=42&lines=Building+production+React+Native+apps+%F0%9F%93%B1;7%2B+years+%E2%80%94+20%2B+apps+%E2%80%94+millions+of+users;Expensify+Guest+Engineer+%E2%80%94+Cura%C3%A7ao+%F0%9F%8C%B4;Shipping+AI%2FLLM-powered+mobile+experiences" alt="typing" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.upwork.com/freelancers/~01f0a4715516af7e54"><img src="https://img.shields.io/badge/Upwork-%24100K%2B%20Earned-14A800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/dhairya-senjaliya-a74012119/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://dhairya-senjaliya-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:dhairyasenjaliya@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=dhairyasenjaliya&style=flat-square&color=3B82F6&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/dhairyasenjaliya?style=flat-square&color=3B82F6&label=Followers" />
 
 </div>
 
----
+<br/>
 
-## 🚀 Who I Am
+## 👋 About Me
 
-I’m a **senior freelance mobile app developer** specializing in **React Native & Expo**, helping startups and businesses turn ideas into **reliable, scalable, production-ready apps**.
+```ts
+const dhairya = {
+  role:        "Senior Full Stack & React Native Engineer",
+  location:    "Rajkot, India 🇮🇳  ·  Remote-first",
+  experience:  "8+ years",
+  shipped:     "20+ production apps · iOS & Android",
+  earned:      "$100K+ on Upwork — long-term repeat clients",
+  recognition: "Expensify Guest Engineer · Curaçao 🌴",
 
-💼 **7+ years experience**  
-📱 **20+ apps shipped**  
-👥 **Millions of users impacted**  
-🌍 Worked with **US & global clients**  
-🎨 Strong focus on **UI/UX, performance & clean architecture**
+  buildsWith:  ["React Native", "Expo", "TypeScript", "FastAPI", "OpenAI"],
+  exploring:   ["AI Agents", "RAG", "Skia animations", "Edge AI on mobile"],
+  loves:       ["clean architecture", "smooth 60fps UX", "shipping fast"],
 
-I don’t just write code — I **own outcomes**.
+  availableFor: "Senior mobile contracts · AI-powered product work",
+};
+```
 
----
+<br/>
 
-## 🧠 Core Services (Client-Focused)
+## 🎯 What I Do
 
-✅ React Native App Development (iOS & Android)  
-✅ Expo-based Rapid Development  
-✅ UI/UX-heavy Screens & Animations  
-✅ App Performance Optimization  
-✅ Firebase, Maps, Payments & Notifications  
-✅ Bug fixing, refactors & long-term maintenance  
-✅ App Store & Play Store readiness  
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 📱 Mobile Engineering
+End-to-end React Native & Expo apps for iOS and Android — from product scoping to App Store release. Strong focus on performance, animations, and clean architecture.
 
-## 🧰 Tech Stack
+- Hermes / new architecture tuning
+- Reanimated 3, Skia, FlashList
+- EAS Build, CodePush, Fastlane
+- In-app purchases & Stripe payments
 
-### 📱 Mobile (Primary Expertise)
-<p>
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Reanimated-v3-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
+</td>
+<td width="50%" valign="top">
 
-### 🌐 Web & Backend
-<p>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-  <img src="https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
-</p>
+### 🤖 AI-Powered Features
+Integrating OpenAI, RAG, and LLM workflows into mobile and web — turning AI into shipped features, not demos.
 
-### 🤖 Python & AI / ML (Learning & Integration)
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
-</p>
+- Text analysis & validation
+- Smart input flows & automation
+- Streaming responses on mobile
+- Vector search & embeddings
 
-> 📌 I actively explore **AI-powered features** like spell-checking, text analysis, automation, and smart UX — **practical AI**, not buzzwords.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🌐 Full Stack Backends
+Python (FastAPI / Flask) backends that power AI features, real-time systems, and business logic.
 
-## 📦 What Clients Hire Me For
+- REST API design
+- WebSocket & real-time data
+- PostgreSQL · Redis · Firebase
+- Sentry observability
 
-- 🔥 **Production-grade React Native apps**
-- 🎯 Clean, maintainable architecture
-- ⚡ Smooth animations & gestures
-- 🧪 Detox-tested flows
-- 📊 Real-time data & performance
-- 💬 Clear communication & ownership
+</td>
+<td width="50%" valign="top">
 
-I treat your product like **my own business**, not a ticket.
+### 🤝 Engineering Leadership
+Code reviews, mentoring, and architecture decisions across distributed teams.
 
----
+- Async-first remote collaboration
+- Component systems & conventions
+- Performance budgets & profiling
+- Production crash-rate reduction
 
-## 🤝 Let’s Work Together
+</td>
+</tr>
+</table>
 
-<p>
-  <a href="https://www.upwork.com/freelancers/~01f0a4715516af7e54">
-    <img src="https://img.shields.io/badge/Hire%20Me%20on%20Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dhairya-senjaliya-a74012119/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+<br/>
 
----
+## 🛠️ Tech Stack
 
 <div align="center">
 
-⭐️ *Looking for a reliable React Native expert who understands product, UX, and scale?  
-Let’s build something solid.*
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,ts,swift,java,kotlin&theme=dark" />
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/Reanimated-3B82F6?style=flat-square" />
+<img src="https://img.shields.io/badge/FlashList-FF6B6B?style=flat-square" />
+<img src="https://img.shields.io/badge/Hermes-1ABC9C?style=flat-square" />
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,postgres,redis,firebase,graphql&theme=dark" />
+
+**AI / LLM**
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/pgvector-336791?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Embeddings-EC4899?style=flat-square" />
+
+**Testing & DevOps**
+
+<img src="https://skillicons.dev/icons?i=jest,git,github,githubactions,vercel,docker&theme=dark" />
+<img src="https://img.shields.io/badge/Detox-3498DB?style=flat-square" />
+<img src="https://img.shields.io/badge/Maestro-9B59B6?style=flat-square" />
+<img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
+<img src="https://img.shields.io/badge/EAS%20Build-000020?style=flat-square&logo=expo&logoColor=white" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/dhairyasenjaliya">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dhairyasenjaliya&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=cbd5e1&bg_color=0f172a" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyasenjaliya&layout=compact&hide_border=true&title_color=3B82F6&text_color=cbd5e1&bg_color=0f172a&langs_count=8" />
+</a>
+
+<br/>
+
+<a href="https://github.com/dhairyasenjaliya">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhairyasenjaliya&theme=tokyonight&hide_border=true&background=0f172a&stroke=3B82F6&ring=3B82F6&fire=06b6d4&currStreakLabel=3B82F6" />
+</a>
+
+<br/>
+
+<a href="https://github.com/dhairyasenjaliya">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhairyasenjaliya&theme=onedark&no-frame=true&row=1&column=7&margin-w=10" />
+</a>
+
+<br/>
+
+<a href="https://github.com/dhairyasenjaliya">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhairyasenjaliya&bg_color=0f172a&color=3B82F6&line=06b6d4&point=ffffff&area=true&hide_border=true" />
+</a>
+
+</div>
+
+<br/>
+
+## 🌟 Highlighted Work
+
+| Project | Description | Stack |
+|---|---|---|
+| 🏆 **[Expensify/App](https://github.com/Expensify/App)** | Open-source contributor to the New Expensify chat-based financial collaboration platform. *Recognized with a Guest Engineer invitation to Curaçao.* | React Native · TypeScript |
+| 🎨 **[Portfolio](https://dhairya-senjaliya-portfolio.vercel.app/)** | My personal portfolio showcasing 20+ shipped apps and client work | Next.js · Vercel |
+| 📱 **[Featured RN App]** | _Pin one of your best React Native apps here — replace the older PHP repos_ | RN · Expo · TypeScript |
+| 🤖 **[AI / LLM Project]** | _Pin an OpenAI / RAG / agent project showcasing your AI work_ | RN · FastAPI · OpenAI |
+
+<br/>
+
+## 🤝 Available For
+
+<div align="center">
+
+| 💼 | 🎯 | ⚡ |
+|---|---|---|
+| **Senior RN Contracts** | **AI-Powered Mobile Products** | **Architecture & Audits** |
+| Long-term & retainer | OpenAI / RAG / agents | Performance & code review |
+
+<br/>
+
+<a href="https://www.upwork.com/freelancers/~01f0a4715516af7e54">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Hire%20Me%20on%20Upwork-14A800?style=for-the-badge&logoColor=white" height="40" />
+</a>
+&nbsp;
+<a href="mailto:dhairyasenjaliya@gmail.com">
+  <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Email%20Me-EA4335?style=for-the-badge&logoColor=white" height="40" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> _“I treat your product like my own. Reliable delivery, clean code, and zero drama.”_
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" />
 
 </div>
